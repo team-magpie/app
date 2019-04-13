@@ -73,7 +73,7 @@ export default function Form() {
             </div>
         </div>
         <div className={styles.buttonContainer}>
-            <a className={styles.link} href='https://github.com/tylercorbett'><button className={styles.submit}>Submit</button></a>
+            <a className={styles.link} href='https://dazzling-bassi-db3cca.netlify.com/'><button className={styles.submit}>Submit</button></a>
         </div>
        </div>
     )
